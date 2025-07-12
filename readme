@@ -1,0 +1,50 @@
+# 🍽️ Zomato EDA
+
+This repository contains an Exploratory Data Analysis (EDA) project on the Zomato restaurant dataset using Python. The goal is to uncover patterns, trends, and insights into restaurant listings, ratings, votes, and online ordering behavior.
+
+---
+
+## 📌 Objective
+
+To explore and visualize key features of the Zomato dataset such as:
+- Restaurant types
+- Ratings distribution
+- Online ordering impact
+- Votes comparison
+- Top-rated restaurants
+
+---
+
+## 📁 Contents
+
+| File | Description |
+|------|-------------|
+| `zomato_eda.ipynb` | Jupyter Notebook with all cleaning, analysis, and visualizations |
+| `Zomato-data-.csv` | Dataset used for the analysis  |
+
+---
+
+## 🧰 Libraries Used
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+
+---
+
+## 📊 Key Visualizations
+
+- Histogram of ratings
+- Boxplot comparing ratings vs online order
+- Heatmap of restaurant type vs online order
+- Votes grouped by restaurant type
+- Top restaurant(s) by number of votes
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Krishnavamsi2785/Zomato-EDA.git
